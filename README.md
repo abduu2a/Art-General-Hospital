@@ -1,2 +1,8 @@
 # Art-General-Hospital
- Art General Hospital is a comprehensive healthcare management website featuring appointment scheduling, patient records, user dashboards for doctors, patients, and admins, lab requests, pharmacy services, and more. Designed to streamline hospital operations with user-friendly interfaces and efficient services.
+ Group members----------------------------ID
+ Abdulfetah Jemal-------------------- 1406650
+ Muaz Amin--------------------------- 1406874
+ Lencho Ahmed------------------------ 1406440
+ Chudier Gatkuoth-------------------- 1401653
+ NAtnael Gezahegn-------------------- 1406647
+ Obsa Kumara------------------------- 1402771
